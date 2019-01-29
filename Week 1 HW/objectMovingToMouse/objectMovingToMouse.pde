@@ -1,3 +1,4 @@
+////reference:https://processing.org/examples/easing.html
 float x, y;
 float posx, posy;
 int s = second();

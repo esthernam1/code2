@@ -1,3 +1,5 @@
+//https://processing.org/examples/easing.html
+//https://www.youtube.com/watch?v=-Gt9Er6bCVk
 float x, y;
 float posx, posy;
 

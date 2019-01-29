@@ -11,10 +11,10 @@ void draw() {
   background(20, 140, 150);
   rectMode(CENTER);
   noStroke();
+  
   //head
   fill(240, 180, 60);
   rect(width/2, height/3, size, size-50, 30, 30, 5, 5);
-
 
   //hat
   fill(255);

@@ -1,3 +1,6 @@
+//reference: https://processing.org/reference/lerp_.html
+
+
 float x, y;
 float posx, posy;
 
