@@ -70,6 +70,4 @@ void mouseClicked() {
   int distance = int(dist(width/2, height/2, mouseX, mouseY));
   if (distance<200/2) {
   }
-
-  //TRYING TO MAKE ROLLOVER
 }
